@@ -1,0 +1,1 @@
+(()=>{"use strict";(new class{start(){console.log("game started")}}).start(),console.log('<!DOCTYPE html>\r\n<html lang="en">\r\n<head>\r\n\t<meta charset="UTF-8">\r\n\t<meta name="viewport" content="width=device-width, initial-scale=1.0">\r\n\t<title>Document</title>\r\n</head>\r\n<body>\r\n\t<h1>hello</h1>\r\n</body>\r\n</html>')})();
